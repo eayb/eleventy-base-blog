@@ -4,8 +4,7 @@ description: This is a post on My Blog about leveraging agile frameworks.
 date: 2018-07-04
 tags: number 2
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
+Deneme
 ## Section Header
 
 <a href="/blog/firstpost.md">First post</a>
